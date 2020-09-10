@@ -1,0 +1,13 @@
+.container{
+    background-image: url(image/background.jpg);
+    height: 100vh;
+}
+.sitename{
+    color: blueviolet;
+    font-size: 50px;
+}
+.cover{
+    color: greenyellow;
+    margin-left: 100px;
+    font-size: 40px;
+}

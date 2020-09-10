@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.header{
+    background-color: black;
+    color: #ffffff;
+    /* list-style: none; */
+    margin-top: 10px;
+}
+.header .inside-header{
+    position: relative;
+}
+.inside-header ul{
+    position: absolute;
+    right: 0px;
+}
+.ssword{
+    height: 100px;
+    color: red;
+}

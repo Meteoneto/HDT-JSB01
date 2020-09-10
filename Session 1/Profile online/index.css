@@ -1,0 +1,14 @@
+.container .aside-left{
+    background-color: lightskyblue;
+    height: 100vh;
+    width: 30%;
+}
+.avatar{
+    width: 200px;
+    border-radius: 12em ;
+}
+.container .aside-right{
+    background-color: whitesmoke;
+    height: 100vh;
+    width: 30%;
+}
