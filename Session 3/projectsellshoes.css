@@ -1,0 +1,45 @@
+.container{
+    width: 350px;
+    height: 545px;
+    border: red 3px;
+    color: black;
+    border:  groove 2px;
+    font-size: 25px;
+    justify-content: center;
+}
+*{
+    list-style: none;
+    margin-top: 0px;
+    margin-left: 0px;
+}
+.menu{
+    background-color: green;
+    position: fixed;
+    width: 100%;
+    top: 0px;
+    height: 55px;
+}
+.menu ul li {
+    margin-right: 100px;
+    font-family: 'Sriracha', cursive;
+    color: yellow;
+    font-size: 30px;
+}
+.pr{
+    padding-left: 100px;
+    width: 1050px;
+    height: 770px;
+    margin-top: -16px;
+}
+.sells{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+}
+.img{
+    width: 300px;
+    height: 300px;
+    justify-content: space-around;
+    border-radius: 0px;
+    margin-top: 10px;
+}
